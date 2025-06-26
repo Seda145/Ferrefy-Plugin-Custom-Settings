@@ -1,0 +1,45 @@
+{
+	"EngineVersion": "5.6.0",
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Custom Settings Plugin",
+	"Description": "Custom Settings Plugin",
+	"Category": "Ferrefy",
+	"CreatedBy": "Ferrefy",
+	"CreatedByURL": "https://ferrefy.com",
+	"DocsURL": "https://ferrefy.com/documentation/custom-settings-plugin/",
+	"MarketplaceURL": "https://www.fab.com/sellers/Ferrefy",
+	"SupportURL": "https://ferrefy.com",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CustomSettingsPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64" ],
+			"PlatformDenyList": []
+		},
+		{
+			"Name": "CustomSettingsPluginEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64" ],
+			"PlatformDenyList": []
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "UtilityPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "UIAdditionsPlugin",
+			"Enabled": true
+		}
+	]
+}
+
