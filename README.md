@@ -2,6 +2,8 @@
 
 # Ferrefy: Custom Settings
 
+![BannerCustomSettingsPlugin](https://github.com/user-attachments/assets/7c93cbcf-7eef-42f0-b2c1-6e6b6f6de34e)
+
 ---
 ### Introduction
 ---
@@ -55,6 +57,22 @@ To support me and future software development, you can buy [Ferrefy plugins on F
 ---
 
 Take a quick look at some of the key features of this plugin. Interested? Click the documentation link to watch all media and learn more.
+
+https://github.com/user-attachments/assets/831430f1-9c92-4607-a6f3-d2ca7d1590e8
+
+![MediaGallery_CustomSettingsPlugin_1](https://github.com/user-attachments/assets/991fe7af-e315-4db4-a2c4-401d9923fbea)
+
+![MediaGallery_CustomSettingsPlugin_2](https://github.com/user-attachments/assets/77424649-07ed-4517-9a43-882fbbdc2541)
+
+![MediaGallery_CustomSettingsPlugin_3](https://github.com/user-attachments/assets/ad4a63d1-7a74-4349-8768-f0f0a991fb34)
+
+![MediaGallery_CustomSettingsPlugin_4](https://github.com/user-attachments/assets/cbc89723-0dd2-44e7-be47-0c56c6a54d09)
+
+![MediaGallery_CustomSettingsPlugin_5](https://github.com/user-attachments/assets/ab23f023-42af-4d33-9141-89d96a0c7533)
+
+![MediaGallery_CustomSettingsPlugin_6](https://github.com/user-attachments/assets/bc61be49-a8ee-4e45-9d7e-9fdff557e78a)
+
+![MediaGallery_CustomSettingsPlugin_7](https://github.com/user-attachments/assets/6858de33-78a4-4c7e-a1cd-38d1fa24b804)
 
 ---
 ### About me
