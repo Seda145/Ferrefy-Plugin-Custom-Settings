@@ -53,6 +53,12 @@ To professional software developers, software modularity is a necessity. That is
 To support me and future software development, you can buy [Ferrefy plugins on FAB](https://www.fab.com/sellers/Ferrefy).
 
 ---
+### Find more plugins
+---
+
+Find Ferrefy plugins on [FAB](https://www.fab.com/sellers/Ferrefy) and [GitHub](https://github.com/Seda145?tab=repositories).
+
+---
 ### Media
 ---
 
